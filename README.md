@@ -26,6 +26,14 @@ A sleek, modern Resume Builder app built using **Next.js** and **TypeScript**.
 ## 🧑‍💻 Author
 **Nikhil Joshi**  
 📧 [nj4918430@gmail.com](mailto:nj4918430@gmail.com)
+**Rohit Bhatt**
+📧 [rb203939@gmail.com](mailto:rb203939@gmail.com)
+
+## Contributors
+
+- [Nikhil Joshi](https://github.com/nikhiljoshi812)  
+- [Rohit Bhatt](https://github.com/Rohit0909-ux) 
+
 
 
 
