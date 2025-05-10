@@ -16,7 +16,7 @@ A sleek, modern Resume Builder app built using **Next.js** and **TypeScript**.
 
 ## 🛠 Tech Stack
 - **Next.js** – React Framework
-- **React.js** – Frontend Library
+- **React.js** – Frontend library
 - **TypeScript** – Typed JS
 - **Tailwind CSS** – Utility-first styling
 - **ESLint + Prettier** – Code formatting & linting
